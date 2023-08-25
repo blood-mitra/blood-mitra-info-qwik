@@ -8,7 +8,7 @@ export default component$(() => {
   return (
     <div class="container">
       <h1 class="text-5xl text-left mb-4">Privacy Policy</h1>
-      <p class="mb-6">Last updated: 04 August, 2023</p>
+      <p class="mb-6">Last updated: 25 August, 2023</p>
 
       <p class="mb-6">Greetings from Blood Mitra!</p>
 
@@ -23,6 +23,12 @@ export default component$(() => {
         “<span class="font-bold">our</span>”, “
         <span class="font-bold">Company</span>”] refers to Blood Mitra and its
         entities.
+      </p>
+
+      <p>
+        Blood Mitra is a different entity on its own but it falls under Ottr
+        Technology Pvt. Ltd. It is created, maintained and managed by Ottr
+        Technology and as such all rights reserved by Ottr Technology.
       </p>
 
       <p class="mb-6">
@@ -155,7 +161,9 @@ export default component$(() => {
               for their marketing purposes, except as mentioned below.
             </li>
             <li>
-              <p class="inline-block">Sharing of information in the following situations:</p>
+              <p class="inline-block">
+                Sharing of information in the following situations:
+              </p>
               <ul class="ml-8 list-circle">
                 <li>
                   To evaluate or conduct a merger. We may share or transfer your
