@@ -36,8 +36,8 @@ export default component$(() => {
         Policy.
       </p>
 
-      <ol>
-        <li>
+      <ol class="mt-6">
+        <li class="mb-6">
           <h2>Information We Collect</h2>
 
           <p>We collect the following types of information.</p>
@@ -116,7 +116,7 @@ export default component$(() => {
           </ol>
         </li>
 
-        <li>
+        <li class="mb-6">
           <h2>Cookies</h2>
 
           <p>
@@ -131,7 +131,7 @@ export default component$(() => {
           </ul>
         </li>
 
-        <li>
+        <li class="mb-6">
           <h2>Third Party Privacy Policies.</h2>
 
           <p>
@@ -142,7 +142,7 @@ export default component$(() => {
           </p>
         </li>
 
-        <li>
+        <li class="mb-6">
           <h2>Why do we collect these data.</h2>
           <ul>
             <li>To provide, maintain and monitor the usage of the Service.</li>
@@ -195,7 +195,7 @@ export default component$(() => {
           </ul>
         </li>
 
-        <li>
+        <li class="mb-6">
           <h2>Retention of your personal Data.</h2>
           <p>
             We will retain your personal data only for as long as is necessary
@@ -206,7 +206,7 @@ export default component$(() => {
           </p>
         </li>
 
-        <li>
+        <li class="mb-6">
           <h2>Deletion of Data.</h2>
           <p>
             If you need to delete your data, please contact at
@@ -215,7 +215,7 @@ export default component$(() => {
           </p>
         </li>
 
-        <li>
+        <li class="mb-6">
           <h2>How we protect your Data.</h2>
           <p>
             Your personal information is kept strictly confidential and fully
@@ -227,7 +227,7 @@ export default component$(() => {
           </p>
         </li>
 
-        <li>
+        <li class="mb-6">
           <h2>Children’s Privacy Policy.</h2>
           <p>
             We do not knowingly collect any kind of identifiable information
@@ -238,7 +238,7 @@ export default component$(() => {
           </p>
         </li>
 
-        <li>
+        <li class="mb-6">
           <h2>Changes to our Privacy Policy.</h2>
           <p>
             We may make changes to our Privacy Policy from time to time. We will
@@ -248,10 +248,10 @@ export default component$(() => {
           </p>
         </li>
 
-        <li>
+        <li class="mb-6">
           <h2>Notification.</h2>
           <p>You can contact us at:</p>
-          <p>Email: info@bloodmitra.org</p>
+          <p>Email: bloodmitra@ottr.com.np</p>
 
           <p>For any requests for technical support, feedback or comment.</p>
         </li>
